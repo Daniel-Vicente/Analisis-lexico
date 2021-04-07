@@ -1,0 +1,14 @@
+∫ : Es un Reservadas
+lim : Es un Reservadas
+[ : Es un Corchete_de_apertura
+2 : Es un Numero
+| : Es un Separador_de_limite
+2 : Es un Numero
+] : Es un Corchete_de_cierre
+( : Es un Parentesis_de_apertura
+3 : Es un Numero
+x : Es un Identificador
+^ : Es un Potencia
+3 : Es un Numero
+) : Es un Parentesis_de_cierre
+dx : Es un Reservadas

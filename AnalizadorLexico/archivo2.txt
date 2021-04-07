@@ -1,0 +1,6 @@
+S: Es un Reservadas
+ 3: Es un Identificador
+Simbolo no definido
+1: Es un Numero
+ p3 : Es un Identificador
+dx: Es un Reservadas
